@@ -1,0 +1,11 @@
+{
+  data: {
+	nodes: [
+				{
+					id: 1,
+					kasus: 1,
+					klaster: "DKI Jakarta",
+				}
+		]
+	}
+}
